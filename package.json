@@ -17,10 +17,10 @@
     "url": "https://github.com/huss-osman/cicd-custom/issues"
   },
   "homepage": "https://github.com/huss-osman/cicd-custom#readme",
-  "dependencies": {
-    "@actions/core": "^3.0.1"
-  },
   "devDependencies": {
     "@vercel/ncc": "^0.45.0"
+  },
+  "dependencies": {
+    "@actions/core": "^1.11.1"
   }
 }
